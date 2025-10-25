@@ -36,19 +36,6 @@ It analyzes live network traffic captured via **TShark**, extracts key metrics, 
 
 ---
 
-## 🚀 How to Run  
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/predictive-network-congestion.git
-cd predictive-network-congestion
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
-```
-
 Then open the local URL displayed in your terminal (e.g., `http://localhost:8501`).  
 
 ---
@@ -72,6 +59,3 @@ This system helps detect and predict network congestion before it impacts perfor
 
 ---
 
-## 👨‍💻 Author  
-**Your Name**  
-Final Year Engineering Student | AI & ML Enthusiast  
